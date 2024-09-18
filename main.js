@@ -10,7 +10,7 @@ const backgroud = document.querySelector('body')
 const message = document.querySelector ('.message')
 // the expressing message here
 const message_string = "em bé chiều đi làm coi mưa to nha, đi cẩn thận đường xá ạ ❤️ ❤️ ❤️"
-const messages = messaage_string.split (" ")
+const messages = message_string.split (" ")
 let i = 0
 let display = ''
 const loop = setInterval (() => {
