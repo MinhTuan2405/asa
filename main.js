@@ -8,8 +8,9 @@ function getRandomColor() {
 
 const backgroud = document.querySelector('body')
 const message = document.querySelector ('.message')
-
-const messages = ['bé', 'ơi', 'trung', 'thu', 'vui', 'vẻ', 'nha!!', '❤️', '😘', '😍']
+// the expressing message here
+const message_string = ""
+const messages = messaage_string.split (" ")
 let i = 0
 let display = ''
 const loop = setInterval (() => {
