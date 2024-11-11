@@ -9,7 +9,7 @@ function getRandomColor() {
 const backgroud = document.querySelector('body')
 const message = document.querySelector ('.message')
 // the expressing message here
-const message_string = "em bé chiều đi làm coi mưa to nha, đi cẩn thận đường xá ạ ❤️ ❤️ ❤️"
+const message_string = "Bạn ơiiiiii, đi về cẩn thận ấy nhớ, cẩn thận với everythinggg  ❤️ ❤️"
 const messages = message_string.split (" ")
 let i = 0
 let display = ''
